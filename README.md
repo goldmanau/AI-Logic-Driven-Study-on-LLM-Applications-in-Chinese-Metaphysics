@@ -1,4 +1,4 @@
-## Bridging Ancient Wisdom and Modern Technology: Logic-Driven Study on LLM Applications in Chinese Metaphysics
+## TITLE: Bridging Ancient Wisdom and Modern Technology: Logic-Driven Study on LLM Applications in Chinese Metaphysics
 
 ## Abstract:
 With the explosive advancement of Artificial Intelligence (AI) technology, Large Language Models (LLMs) have been widely deployed across various domains requiring complex textual analysis and logical deduction. This report explores the practical application of AI in the dual-system cross-reference analysis of traditional Chinese metaphysics—specifically, Ziping Bazi and the Zhongzhou Sect of Zi Wei Dou Shu. Through rigorous, in-depth testing of Microsoft Copilot, OpenAI ChatGPT, and Google Gemini, this study evaluates and compares their strengths and weaknesses across critical dimensions, including chart generation precision, error-correction speed, daily/monthly dynamic projection accuracy, and academic logical reasoning.
